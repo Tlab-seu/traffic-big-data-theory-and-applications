@@ -8,7 +8,11 @@
   - [目录](#目录)
   - [背景](#背景)
   - [书稿代码](#书稿代码)
+  - [慕课视频](#慕课视频)
   - [样例数据](#样例数据)
+    - [原始数据说明](#原始数据说明)
+    - [DATASET-A说明](#dataset-a说明)
+    - [DATASET-B说明](#dataset-b说明)
 
 ## 背景
 
@@ -43,6 +47,24 @@
 ## 书稿代码
 
 书稿代码可以在各章节文件夹内的`配套代码`中获取。
+
+
+## 慕课视频
+
+本书现提供部分慕课教学视频供读者参考学习，暂通过百度网盘进行分享，文件提取密码均为tlab。该套慕课视频正在持续建设中，未来将不断更新。
+
+- 第5章 机器学习简介
+  - [1 超参数优化](https://pan.baidu.com/s/1kLl3SfRscyW_AWWuP66-GA)
+- 第7章 支持向量机
+  - [1 支持向量机基本概念](https://pan.baidu.com/s/1DGEB3fIavaoaj1A-3DqTQQ)
+  - [2 支持向量机基本型](https://pan.baidu.com/s/1cT8xXugjVcYdr5P4ErA3eQ)
+  - [3 软间隔线性支持向量机](https://pan.baidu.com/s/17Pzh5LAqhB_Zvo6VW2th9w)
+  - [4 非线性支持向量机](https://pan.baidu.com/s/1be4RdKwMBaJ6ulG8qS378A)
+- 第8章 决策树
+  - [1 特征选择](https://pan.baidu.com/s/1xFtcas1Y6bsW8W6yMEGrTA)
+  - [2 决策树生成](https://pan.baidu.com/s/16npIOx_EVocpwn3_ov0VaQ)
+  - [3 决策树剪枝](https://pan.baidu.com/s/1vJTaQ8oSK-OCPOy2nwk2Ig)
+
 
 ## 样例数据
 
