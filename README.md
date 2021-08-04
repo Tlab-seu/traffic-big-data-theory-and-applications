@@ -13,6 +13,7 @@
     - [原始数据说明](#原始数据说明)
     - [DATASET-A说明](#dataset-a说明)
     - [DATASET-B说明](#dataset-b说明)
+    - [DATASET-C说明](#dataset-c说明)
 
 ## 背景
 
@@ -74,6 +75,7 @@
 选择“2016年11月成都市二环局部区域轨迹数据”进行下载。DATASET-B是在
 原始轨迹数据基础上，进行网格化和特征提取后的衍生数据，读者可以访问
 [样例数据](./样例数据)获取数据处理代码。
+对于无法顺利获取数据的读者，为了帮助大家进行各类算例的实践操作，编者又进一步利用随机数生成了一套数据集，命名为DATASET-C。
 
 ### 原始数据说明
 
@@ -101,3 +103,8 @@ python generate_dataset.py -d [数据存储地址]
 目录下，则需要使用命令`python generate_dataset.py -d C:\Users\Administrator\Desktop\data\`。
 
 此外，读者也可以将该代码直接复制到数据所在文件夹，然后输入命令`python generate_dataset.py`即可。
+
+### DATASET-C说明
+
+DATASET-C为按一定规则随机生成的数据，可以替代DATASET-A进行本书涉及的各项操作。
+该数据可从以下百度网盘链接获取，[点击此处下载](https://pan.baidu.com/s/1merYPcw29NwZekq5Fj5ciA)，提取码为：tlab。
