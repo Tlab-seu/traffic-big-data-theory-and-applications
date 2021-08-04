@@ -106,5 +106,5 @@ python generate_dataset.py -d [数据存储地址]
 
 ### DATASET-C说明
 
-DATASET-C为按一定规则随机生成的数据，可以替代DATASET-A进行本书涉及的各项操作。
+DATASET-C为按一定规则随机生成的数据，包含`DATASET-C-A.csv`和`DATASET-C-B.csv`，可以分别替代DATASET-A和DATASET-B进行本书涉及的各项操作。
 该数据可从以下百度网盘链接获取，[点击此处下载](https://pan.baidu.com/s/1merYPcw29NwZekq5Fj5ciA)，提取码为：tlab。
